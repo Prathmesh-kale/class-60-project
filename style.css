@@ -1,0 +1,25 @@
+#myinspiration {
+    height: 10px;
+    width: 100px;
+    padding-left: 350px;
+}
+
+body {
+    text-align: center;
+    background-color: cyan;
+
+}
+
+#myinspiration1 {
+    height: 300px;
+    width: 120px;
+    padding-left: 850px;
+    padding-top: 0px;
+}
+
+#h1 {
+    font-size: 60px;
+    font-variant: small-caps;
+    color:darkblue;
+    font-family:  'Cinzel Decorative';
+}
